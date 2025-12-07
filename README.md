@@ -52,10 +52,10 @@ Surat, Gujarat, India 📌
   <a href="https://www.linkedin.com/in/dhruvshekhar12" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/dhruvshekhar12" target="_blank">
+  <a href="https://www.instagram.com/shekhar_dhruv_21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-  <a href="https://stackoverflow.com/users/19407300/dhruvshekhar12" target="_blank">
+  <a href=https://stackoverflow.com/users/31526608/shekhar-dhruv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" />
   </a>
   <a href="https://medium.com/@dhruvshekhar12" target="_blank">
