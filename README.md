@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shekhar Dhruv
 
-A passionate **Software Engineer** with **3.5+ years of experience** building scalable web and mobile applications. I specialize in crafting **user-friendly interfaces** and **robust backend systems** using **MERN & PERN stacks**.
+Full Stack Software Engineer with **4.5+ years of experience** building scalable web and mobile applications using **React.js, Next.js, Node.js, and PostgreSQL**. Passionate about **clean architecture, system design, and high-performance applications**.
 
 ## 📍 Location
 Surat, Gujarat, India 📌
