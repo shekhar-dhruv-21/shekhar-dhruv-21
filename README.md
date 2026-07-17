@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shekhar Dhruv
 
-Full Stack Software Engineer with **6+ years of experience** building scalable web and mobile applications using **React.js, Next.js, Node.js, and PostgreSQL**. Passionate about **clean architecture, system design, and high-performance applications**.
+Full Stack Software Engineer with **5+ years of experience** building scalable web and mobile applications using **React.js, Next.js, Node.js, and PostgreSQL**. Passionate about **clean architecture, system design, and high-performance applications**.
 
 ## 📍 Location
 Surat, Gujarat, India 📌
