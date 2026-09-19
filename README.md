@@ -6,7 +6,7 @@ Full Stack Software Engineer with **5+ years of experience** building scalable w
 Surat, Gujarat, India 📌
 
 ## 📧 Contact
-- Email: [dhruvshekhar12@gmail.com](mailto:dhruvshekhar12@gmail.com)  
+- Email: [shekhar.dev.dhruv@gmail.com](mailto:shekhar.dev.dhruv@gmail.com)  
 - Mobile: [+91 9081072072](tel:+919081072072)
 
 ## 🚀 Tech Stack
